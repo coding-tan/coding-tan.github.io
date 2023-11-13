@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/07/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Hello coding-tan</title>
+    <url>/2023/11/13/hello%20coding-tan/</url>
+    <content><![CDATA[<p>Welcome to the coding-tan! 🚀</p>
+<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><p>I am coding-tan, a passionate learner and enthusiast in the field of embedded development. My journey in the coding realm is documented through a collection of insightful articles and detailed study notes. If you are curious about the fascinating world of embedded systems, you’re in the right place.</p>
+<h2 id="Explore-My-Work"><a href="#Explore-My-Work" class="headerlink" title="Explore My Work"></a>Explore My Work</h2><ul>
+<li><p><strong>GitHub Repository:</strong> <a href="https://github.com/coding-tan">coding-tan on GitHub</a></p>
+<ul>
+<li>Dive into my coding adventures, explore projects, and discover the solutions I’ve crafted.</li>
+</ul>
+</li>
+<li><p><strong>CSDN Blog:</strong> <a href="https://blog.csdn.net/weixin_44911552">coding-tan’s CSDN Blog</a></p>
+<ul>
+<li>Delve into a plethora of articles covering a wide range of topics in the embedded development domain. From tutorials to deep dives, my blog serves as a knowledge hub for fellow learners and developers.</li>
+</ul>
+</li>
+</ul>
+<h2 id="What-to-Expect"><a href="#What-to-Expect" class="headerlink" title="What to Expect"></a>What to Expect</h2><p>My blog primarily focuses on:</p>
+<ul>
+<li><p><strong>Learning Journeys:</strong> Follow my path of continuous learning as I explore new technologies and concepts.</p>
+</li>
+<li><p><strong>Embedded Development Insights:</strong> Gain insights into the world of embedded systems with in-depth articles on development techniques, best practices, and hands-on examples.</p>
+</li>
+<li><p><strong>Study Notes:</strong> Access my comprehensive study notes, serving as a valuable resource for those diving into similar areas of interest.</p>
+</li>
+</ul>
+<h2 id="Join-the-Journey"><a href="#Join-the-Journey" class="headerlink" title="Join the Journey"></a>Join the Journey</h2><p>Feel free to explore my GitHub repositories, where you can find practical code examples and collaborative projects. If you’re looking to expand your knowledge in embedded development, my CSDN blog is the go-to place for detailed articles and helpful guides.</p>
+<p>Let’s embark on this coding journey together! 🚀 Happy coding!</p>
 ]]></content>
   </entry>
 </search>
